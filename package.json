@@ -1,0 +1,12 @@
+{
+  "name": "npm-lock",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "2.1.8"
+  },
+  "devDependencies": {
+    "vue-http": "1.0.1"
+  }
+}
